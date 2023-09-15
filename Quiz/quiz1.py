@@ -46,7 +46,13 @@ AllergiesofVisitors
 # If the user DOES have a glutten allergy, they need to eat a special type of bread, if the user DOES NOT
 # have an allergy they can eat the regular bread. What data type would best be used in this 
 # scenario and how would you write a variable to represent this value?
+The data type you would use in this scenario is the string data type. 
+The variable you would write to represent this value is, WhatCustomersHaveAGluttenAllergy=
 
 # 9. In your own words, describe what a program is?
+ A program is basically instructions on how to set up or code something, a program can create,
+ and make many different things like games, or a math problem on a virtual test
 
 # 10. Describe the difference between a float and an integer. 
+The different between a float and an integer is that, a float is a decimal numberlike 20.99,
+while an integer is a whole number like 20

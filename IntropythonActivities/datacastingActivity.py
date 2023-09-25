@@ -14,6 +14,7 @@ print(int(23.33))
 num_one = 20
 num_two = 23.45
 
+
 print(int(num_one + num_two))
 
 
@@ -21,4 +22,13 @@ print(int(num_one + num_two))
 name_of_pet = "Spuny"
 age_of_pet =  "10"
 
-print("this is my dog," + name_of_pet + "He is" + age_of_pet + "years old")
+print("this is my dog," + name_of_pet +  "He is" + age_of_pet + "years old")
+
+
+# def= defining the function
+def welcome_Msg(username):
+
+    # call = write the function again
+def welcome_Msg(username):
+print(username + 'welcome, to class')
+welcome_Msg('Mekhi')

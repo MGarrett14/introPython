@@ -39,8 +39,21 @@ calculate('7', '100','700')
 # variable to pass a value into the parameter of a function. The variable should
 # be real, user data- not hard coded data.
 def userMsg():
-    nextClass = input('what is your next class.')
-   print('you have' + 'nextClass' + 'after this')
+nextClass = input('what is your next class.')
+print('you have' + 'nextClass' + 'after this')
 
    
 userMsg()
+
+
+
+# write a condition statement for if the sun is out
+
+if sun_is_out = True
+   print( 'do nothing')
+
+   if sun_is_out === True:
+      print('do not turn on street lamps')
+
+   else: 
+       print('turn on street lamps')

@@ -6,6 +6,7 @@
 # a conditional statement (if/else) is ' 
 'A conditional statement (if/else) is if you try something to a statement that is true it will work'
 'But if you try something else that isnt right it will not work'
+'Conditional statement- executes a block of code if a specific condition is met'
 
 # 3. write a simple conditional state using a comparision operator(greater than, less than, etc. )
 money_on_card = 2000.00
@@ -25,13 +26,16 @@ else:
 # NOT food in the fridge, print time to shop. 
 # When you call your function there should be an argument that accepts 
 # a boolean. 
-def food_in_refridegerator():
-      food_in_refridegerator = False
-      if food_in_refridegerator == True
-      print('Time to cook!')
+def put_food_in_refridegerator(food_in_refridgerator):
+   if food_in_refridegerator == True:
+     
+      print('time to cook!')
 
 else:
-print('Do not cook')
+print('time to shop')
+
+put_food_in_refridgerator(false)
+
 
 
 
@@ -40,3 +44,16 @@ print('Do not cook')
 # use a conditional statement to determine if you need to order more cereal.
 # If there is more than 10 boxes, print "inventory full", else if there are less than 
 # 10 boxes print "we need to order more cereal".
+
+# keyword= parameter, integer, function, print, conditional statement, inventory,
+# comparison using more than
+
+def cereal_inventory(cereal):
+     current_cereal_inventory= 10
+     if : cereal >= current-cereal_inventory:
+          print('Inventory is full.')
+     
+     
+     else : print('need ot order more cereal')
+
+     cereal_inventory(10)

@@ -88,6 +88,11 @@ random_numbers = [10,100,12123, 1394, 1]
 
 number_list= [1,2,3,4,5,6,7,8,9,10]
 
+x= range(1,10,2)
+for n in x:
+    print(n)
+
+
 # 4. You have been hired by amazon to be an engineer. Your first assignment is to fix their
 # shopping cart function. Your goal is to create a line of code that will
 # allow users to enter the item they want as a string value, and add it to the items that
@@ -96,4 +101,56 @@ number_list= [1,2,3,4,5,6,7,8,9,10]
 
 # HINT - for this function you will need to use the append() function. 
 
+#keywords - we need to use print(), append(), string value, custom function
+
+
+
 shopping_cart = ['notebook', 'pens','tape','mousepad']
+
+def  amazon_Cart():
+
+    user_item = input('what are you buying')
+    shopping_cart. append(user_item)
+    print(shopping_cart)
+
+    amazon_Cart()
+
+
+
+
+
+
+# sequence pf serval varibles under one name / variable 
+# collection of things/values that use bracket and comes
+# store collections of data
+
+# define Python List- a data type that allows for multiole values within 
+# one variable
+
+number_list= [1, 101, 10102, 1010]
+string_list= ['wade', 'jahmere']
+
+
+var_list= [number_list, string_list]
+
+print(var_list[1])
+
+
+list_of_items=['apple', 'orange', 'book']
+
+apple_price= 1.00
+orange_price= 3.00
+book_price= 10.00
+
+def checkout_cart():
+     user_item_and_price= input('what is your item and price of item?')
+    
+     checkout_cart. append(user_item_and_price) 
+
+
+
+
+
+
+
+

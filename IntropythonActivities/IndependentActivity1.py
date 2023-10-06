@@ -127,6 +127,8 @@ def  amazon_Cart():
 # define Python List- a data type that allows for multiole values within 
 # one variable
 
+
+
 number_list= [1, 101, 10102, 1010]
 string_list= ['wade', 'jahmere']
 
@@ -136,18 +138,83 @@ var_list= [number_list, string_list]
 print(var_list[1])
 
 
+# keywords:
+# we know we need to use a function
+
+
+
+# clues:
+# there are differents item
+# have a piece of code that will add up all the item prices including the price of a new itme 
+
+
+
+
+# starter code
+
+
+
+
 list_of_items=['apple', 'orange', 'book']
 
 apple_price= 1.00
 orange_price= 3.00
 book_price= 10.00
 
-def checkout_cart():
-     user_item_and_price= input('what is your item and price of item?')
+
+#def checkout():
+    #new_item_name= input('what else would you like to add to the cart?')
+    #new_item_price= float(input('what is the price of the new item?'))
+    #list_of_items.append(new_item_name)
+    #print(list_of_items)
+    #print(apple_price + orange_price + book_price + new_item_price)
+
+#user_response = input('would you like to add another item?')
+
+
+#if user_response== 'yes':
     
-     checkout_cart. append(user_item_and_price) 
+    #uber_Eat_checkout()
+
+#else:
+
+    #print('proceed to check')
 
 
+mail= 20
+
+def deletedMail():
+   subtraction_number= 5
+   remaining_mail = mail-subtraction_number
+   print(remaining_mail)
+
+
+   deletedMail()
+
+    #if mail < 21:  
+    
+     #deletedMail()
+
+    #else:
+        #print('mailbox full')
+
+list_numbers=[1,2,3,4,5,6]
+     
+def multiplier():
+    list_numbers=[1,2,3,4,5,6]      
+    for n in list_numbers:
+        print(n*3)
+
+        multiplier()
+
+
+
+
+
+
+
+
+    
 
 
 

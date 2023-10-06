@@ -12,7 +12,7 @@
 money_on_card = 2000.00
 price_of_album = 800.00
 
-if money_on_card > price_of_album
+if money_on_card > price_of_album:
       print('congrats, you got the new album.')
 
 else:
@@ -31,8 +31,8 @@ def put_food_in_refridegerator(food_in_refridgerator):
      
       print('time to cook!')
 
-else:
-print('time to shop')
+   else:
+     print('time to shop')
 
 put_food_in_refridgerator(false)
 
@@ -50,10 +50,10 @@ put_food_in_refridgerator(false)
 
 def cereal_inventory(cereal):
      current_cereal_inventory= 10
-     if : cereal > current-cereal_inventory:
+     if  cereal > current_cereal_inventory:
           print('Inventory is full.')
      
      
-     else : print('need ot order more cereal')
+     else : print('need to order more cereal')
 
      cereal_inventory(10)

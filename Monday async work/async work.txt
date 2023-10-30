@@ -1,0 +1,19 @@
+
+1. List and explain three 3 reasons why programmers write documentation.
+Programmers write documations, because 1. it will help them become a better writer, it can help people have better Technicl writing skills, which is very usefu lfor programmers
+2. it can help people code better, documentations allows you to type more formal and make your intentions more clear
+lastly people can use code that you write, it can help newer programmers help and make you more experienced.
+
+2. In your own words, describe what a README.md document is.
+A README.md document is basically just a template for a documentation you want to write, want to begin writing
+
+3. Based on what your read, what are four (4) things that should be in a README document.
+4 things that should be in a README document is what problem your project solves, a small code example, an issue tracker, and a template 
+
+4. Name and describe three (3) reasons why programmers write commmit messages when using GitHub.
+Programmers write commit messages when using GitHub to keep track of where they wrote code, a body which explains what changes you made to the code and why you made that change,
+and a footer which tracks issues that are made to the code.
+
+5. Describe three things (3) negative outcomes that could happen if a programmer has bad or no documentation.
+Negative outcomes that coud happen if a programm has bad/no documentation is that people won't use their code, and it wont be able to help new programmers,
+they can't refer back to it when writing new codes, and their writing skills won't be as good as if they did practice and write good documentations.

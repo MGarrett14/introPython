@@ -1,0 +1,7 @@
+Version control is programmers controlling and keeping track of changes to a software code, especially in big group projects.
+Version control can really help programming teams work faster and work more efficiently. 
+
+There are Three(3) things that can be passed down to someone that can help the receiver  
+1. A block of code, which you can write and others can use that block of code for an apllication or to help write their own code
+2. template, A template can really help show/intruct someomne on how to write down a code or be a jumpstart
+3. Food, food can help people who can't eat anything at all

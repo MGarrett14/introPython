@@ -1,5 +1,13 @@
-Early Computing: Crash Course Computer Science #1:
+Early Computing: Crash Course Compu
+ter Science #1:
 I learned many things from the video and I learned a lot about the origin of computers, and how they worked when they were first becoming a things,
 but there are three facts I find the most interesting throughout the whole video, one of those facts are the abacus. The abacus
 was invented in Mesopotamia around 2500 BCE, this compute was made to add, subtract, and to just keep track of the population at the time,
-since the populatiom was increasing rapidly and lots of people were there around that time.
+since the population was increasing rapidly and lots of people were there around that time. The abacus was a very usueful tool to caculate and keep track of humans and to caculate humans in the popualtion,
+since it's was very packed during that time.
+Another thing I learned is that the oldest date of a computer wasn't actually a computer, the earliest documentation of a computer' was in 1613 in a book by Richard Braithwait'(4:32- 4:37) he quote 'I have read the Truest computer of times, and the  best Reduceth thy dayes into a short number'(4:45).
+In these days 'computers' were actually people who did caculations and sometimes used machines to help with them, then the title persisted with type writers. 
+Type writers.
+Another form of early computing was an item called 'Range Tables'  and the range tables allowed gunners to look up environment conditions.
+The range tables was so useful during wars, it was even used during WW2 the rangle tables would help gunners align weapons and shoot them at a far distance. 
+All these examples of early computing  

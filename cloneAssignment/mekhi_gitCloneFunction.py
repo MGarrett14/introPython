@@ -24,7 +24,7 @@ period_Ending()
  'The Operator that is being used in this program is a comparsion operator, specfically the greather than(>) operator'
 
 # Installtion
-'You can install this program by going into my repository with the link I am inputting'
+# 'You can install this program by going into my repository with the link I am inputting'
 https://github.com/codespaces?repository_id=691161648
 
 # Contribute

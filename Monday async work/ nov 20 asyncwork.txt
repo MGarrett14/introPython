@@ -1,0 +1,23 @@
+breifly describe what your program is about?
+My program is gonna be a vpn and the vpn is gonna protect users from different internet viruses whenever they visit a website that could give virus.
+
+
+What probblem is your program trying to solve?
+his program will also protect people from getting hacked and their information being stolen and sold from hackers, since it is very easy to get your info stolen and use for evil purposes.
+
+
+How will your program solve this problem?
+My program will solve this problem by 1.Asking the user if they went into the website, because there is a potential virus on it
+2. if they do enter the website, it would block out all popups, and links that are sus, or not safe
+3. The program will allow people to change their internet to a different region, if they want to
+
+
+Are there any apps that similar to your program?
+Nord VPN is a program that works similar, it protects internet users from getting their information stolen when entering/clicking on differentl links or when doing anything on the web
+
+
+
+Who is this program designed for? Please describe the user who will be 
+This program can be used by anyone and everyone, but it would be mostly used for government officials that need to keep 
+their info hidden and not stolen, the user could be a government official scientist who has the cure for cancer, the cure instructions could be on a document
+and one virus could ruin and steal that info easily. My program would be there to prevent that from happening 

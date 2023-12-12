@@ -6,7 +6,8 @@ Features
 The features of my program is being able to self generate an ip address without me manually having to input ip address. This makes it easier for the user to get an ip, without going through a long process or having to choose a certain ip. The user is able to switch locations if they don't feel statified with that location, or there is a potential virus in that area, so the user can switch locations. The program also blocks out pop out ads that can give a potential virus, and wanring the user of a potential virus while blocking out those ads.
 
 Contributors:
-The contributors of this project is the owner of the project, Mekhi Garrett(9th grade), with a little help from a fellow classmate named Te'shan Bridges(9th)
+The contributors of this project is the owner of the project, Mekhi Garrett(9th grade) 
+
 1. What inspiried you (or your team) to develop this program ?
 The apps like Nordvpn and Surfshark inspiried me to develop this program, because these programs are very useful on protecting people from a lot fo internet hackers, and I also want to help. People are very vulnerable on the internet and one simple mistake can easily let a user lose all their private information. I want to stop that from happening to so many users and to keep internet users safe from any malicious virus and or hackers and keep all their info safe and private.
 

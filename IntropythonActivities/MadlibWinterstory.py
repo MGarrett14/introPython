@@ -1,4 +1,4 @@
-def Story():
+def Madlib():
 
     
     
@@ -19,4 +19,4 @@ noun3= input()
 verb= input()
 verb2= input()
 
-Story()
+Madlib()
